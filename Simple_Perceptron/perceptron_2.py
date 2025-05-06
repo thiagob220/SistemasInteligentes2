@@ -131,7 +131,7 @@ def exemplo_iris():
     run_dataset(df_iris['x1'].tolist(), df_iris['x2'].tolist(), df_iris['saida'].tolist(), "Iris (Setosa x Versicolor)")
 
 #---------------------------------------------------------#
-# Execução individual — descomente o exemplo desejado
+# Casos de teste
 #---------------------------------------------------------#
 if __name__ == "__main__":
     #exemplo_or()
