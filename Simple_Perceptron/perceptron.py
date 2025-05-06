@@ -75,7 +75,7 @@ def perceptron(e, e_list, b, w, n, d, x):
     print("Pesos Iniciais: ", w) #pesos
     print("Bias: ", b) #bias
     print("Vetores de entrada: ", x) #entradas x
-    print("Saída esperada: ", d) #saida
+    print("Saída esperada:   ", d) #saida
     print("-----------------------------------------------------------------\n-----------------------------------------------------------------")
 
     #variáveis internas da função
